@@ -2,7 +2,8 @@
 
 # HELLO-RAILS-API
 
-> An API web app to give random greetings
+> An API web app to give random greetings consumed
+> by [react frontend](https://github.com/kelvinbush/hello-rails-frontend).
 
 ## Built With
 
@@ -28,7 +29,6 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@kelvinbush](https://github.com/kelvinbush)
 - Twitter: [@kelvin_bush_](https://twitter.com/kelvin_bush_)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kelvin-wachiye-04b469173/)
-
 
 ## 🤝 Contributing
 
